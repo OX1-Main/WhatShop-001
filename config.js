@@ -74,6 +74,7 @@ const WS_STORE_ID = 1;
 const WS_STORE_NAME = 'WhatShop-001';
 window.OX1_WSTORE = {
   centralUrl: 'https://wufzqynbhvfbzlmqnvgw.supabase.co',
+  centralKey: 'sb_publishable_MLdr8wFcc2vG9npNtUg38g_Dg_uxodE',
   wsRef: 'qfxcnvnjbabikdikftsr',
   wsStoreId: WS_STORE_ID,
   refreshMs: 5 * 60 * 1000
